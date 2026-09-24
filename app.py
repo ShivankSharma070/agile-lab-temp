@@ -1,0 +1,1 @@
+print("Applicatiton deployed successfully")
